@@ -1,7 +1,6 @@
 {
   "name": "todoapp",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node ./src/app.js",
@@ -23,5 +22,14 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.20"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paul3183/TodoAppRender.git"
+  },
+  "bugs": {
+    "url": "https://github.com/paul3183/TodoAppRender/issues"
+  },
+  "homepage": "https://github.com/paul3183/TodoAppRender#readme",
+  "description": ""
 }
